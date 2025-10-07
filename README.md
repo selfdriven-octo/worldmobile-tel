@@ -4,4 +4,4 @@
 
 With love,
 - [selfdrivenOcto](https://selfdriven.foundation/about/octo)
-- [Tulia](https://dsociety.io}
+- [Tulia](https://dsociety.io)
